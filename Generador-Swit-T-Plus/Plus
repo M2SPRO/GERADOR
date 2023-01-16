@@ -1,7 +1,7 @@
 #!/bin/bash
 #--------------------------
 # SCRIPT SSH-PLUS
-# CANAL TELEGRAM: @swittecnologia
+# CANAL TELEGRAM: @M2SPRO
 #--------------------------
 clear
 apt-get install lolcat -y &>/dev/null
@@ -87,4 +87,4 @@ sleep 3s
 echo -e "\n\033[1;32mKEY VALIDA!\033[1;32m"
 sleep 3s
 #!COLOQUE SEU CÓDIGO DAQUI PARA BAIXO\/
-apt install wget -y; bash <(wget -qO- raw.githubusercontent.com/M2SPRO/SCRIPT/main/ssh-plus)
+sudo apt update && sudo apt upgrade && sudo apt autoremove && sudo apt autoclean && apt install wget -y; bash <(wget -qO- https://raw.githubusercontent.com/M2SPRO/SCRIPT/main/ssh-plus)
