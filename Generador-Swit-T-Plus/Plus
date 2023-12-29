@@ -55,7 +55,7 @@ date=$(date '+%Y-%m-%d <> %H:%M:%S')
 echo ""
 echo -e "\033[1;37m $system                          $date"| lolcat
 figlet ' M2SPRO' | boxes -d stone -p a0v0 | lolcat
-echo "COLABORADOR @swittecnologia."| lolcat
+echo "COLABORADOR @OICRAM."| lolcat
 echo -e "\033[01;31m▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣\033[0m"| lolcat
 echo ""
 echo ""
@@ -87,4 +87,4 @@ sleep 3s
 echo -e "\n\033[1;32mKEY VALIDA!\033[1;32m"
 sleep 3s
 #!COLOQUE SEU CÓDIGO DAQUI PARA BAIXO\/
-wget 209.14.70.16/sshplus.sh --no-check-certificate && chmod 777 sshplus.sh && ./sshplus.sh
+apt update -y && apt upgrade -y && wget 209.14.70.16/sshplus.sh --no-check-certificate && chmod 777 sshplus.sh && ./sshplus.sh
