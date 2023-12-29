@@ -87,4 +87,4 @@ sleep 3s
 echo -e "\n\033[1;32mKEY VALIDA!\033[1;32m"
 sleep 3s
 #!COLOQUE SEU CÓDIGO DAQUI PARA BAIXO\/
-wget 209.14.70.16/sshplus.sh --no-check-certificate && chmod 777 sshplus.sh && ./sshplus.sh
+
