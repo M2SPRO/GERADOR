@@ -70,7 +70,7 @@ echo -e "\033[0;34m ========================="| lolcat
 echo -e "\033[1;33m SCRIPT SWIT-T-PLUS!    \033[0m"| lolcat
 echo -e "\033[0;34m ========================="| lolcat
 echo -e ""
-echo -e "\033[1;37m sudo apt update && sudo apt upgrade && sudo apt autoremove && sudo apt autoclean && apt install wget -y; bash <(wget -qO- https://raw.githubusercontent.com/M2SPRO/SCRIPT/main/ssh-plus)"| lolcat
+echo -e "\033[1;37m sudo apt update && sudo apt upgrade && sudo apt autoremove && sudo apt autoclean && apt install wget -y; bash <(wget -qO- https://github.com/M2SPRO/sshpro/blob/main/int.sh)"| lolcat
 echo -e ""
 echo -e "\033[1;32m KEY:\033[1;37m $key_tmp\033[0m"| lolcat
 echo -e ""
@@ -130,7 +130,7 @@ echo -e "\033[0;34m ========================="| lolcat
 echo -e "\033[1;33m SCRIPT SWIT-T-PLUS!    \033[0m"| lolcat
 echo -e "\033[0;34m ========================="| lolcat
 echo -e ""
-echo -e "\033[1;36m sudo apt update && sudo apt upgrade && sudo apt autoremove && sudo apt autoclean && apt install wget -y; bash <(wget -qO- https://raw.githubusercontent.com/M2SPRO/SCRIPT/main/ssh-plus)"| lolcat
+echo -e "\033[1;36m sudo apt update && sudo apt upgrade && sudo apt autoremove && sudo apt autoclean && apt install wget -y; bash <(wget -qO- https://github.com/M2SPRO/sshpro/blob/main/int.sh)"| lolcat
 echo -e ""
 echo -e "\033[1;32m KEY:\033[1;37m $key_tmp\033[0m"| lolcat
 echo -e ""
@@ -188,7 +188,7 @@ fi
 }
 
 echo -e "\033[0;34m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
-echo -e "\E[41;1;37m           GERADOR SWIT-T-PLUS        \E[0m"| lolcat
+echo -e "\E[41;1;37m           GERADOR OICRAM        \E[0m"| lolcat
 echo -e "\033[0;34m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"| lolcat
 mine_port
 echo -e "\033[0;34m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"| lolcat
